@@ -1,0 +1,11 @@
+{
+  "name": "credits",
+  "version": "0.0.0",
+  "private": "true",
+  "main": "index.js",
+  "dependencies": {
+    "async": "~0.2.6",
+    "read": "~1.0.4",
+    "scrapi": "~0.0.8"
+  }
+}
