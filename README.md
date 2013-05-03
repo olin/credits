@@ -7,6 +7,8 @@ $ npm install
 $ node .
 ```
 
+Api: `credits.getCredits(username, password, callback)`
+
 ## Example:
 
 ```
